@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+#AMR USING AMRFINDERPLUS
+
