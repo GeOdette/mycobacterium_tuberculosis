@@ -1,2 +1,2 @@
-jvc/
+jvc/*
 !jvc/joint.vcf
