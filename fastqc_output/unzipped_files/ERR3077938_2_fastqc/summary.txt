@@ -1,0 +1,11 @@
+PASS	Basic Statistics	ERR3077938_2.fastq
+PASS	Per base sequence quality	ERR3077938_2.fastq
+PASS	Per tile sequence quality	ERR3077938_2.fastq
+PASS	Per sequence quality scores	ERR3077938_2.fastq
+WARN	Per base sequence content	ERR3077938_2.fastq
+WARN	Per sequence GC content	ERR3077938_2.fastq
+PASS	Per base N content	ERR3077938_2.fastq
+WARN	Sequence Length Distribution	ERR3077938_2.fastq
+PASS	Sequence Duplication Levels	ERR3077938_2.fastq
+WARN	Overrepresented sequences	ERR3077938_2.fastq
+PASS	Adapter Content	ERR3077938_2.fastq

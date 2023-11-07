@@ -1,2 +1,5 @@
-jvc/*
+/jvc/*
 !jvc/joint.vcf
+/bam/*
+/data/*
+/marked_duplicates/

@@ -29,25 +29,25 @@ marked_duplicates=~/MTB_SEQ/marked_duplicates
 # echo ".dict file created and stored in the ${out_dir} directory................"
 # # Run FASTQC
 
-# # for fastqc_file in "${data_folder}"/*.fastq; do
-# #   fastqc "$fastqc_file" \
-# #   -o "$fastqc_out"
-# # done
+# for fastqc_file in "${data_folder}"/*.fastq; do
+#   fastqc "$fastqc_file" \
+#   -o "$fastqc_out"
+# done
 
-# # #UNZIPPING
+# #UNZIPPING
 
-# # for zip_file in "${fastqc_out}"/*.zip; do
-# # html_file="${fastqc_out}/$(basename "$zip_file" .zip).html"
-# # unzip $zip_file \
-# #     -d $unzipped_folder
-# # mv $html_file $html_folder
-# # done
+# for zip_file in "${fastqc_out}"/*.zip; do
+# html_file="${fastqc_out}/$(basename "$zip_file" .zip).html"
+# unzip $zip_file \
+#     -d $unzipped_folder
+# mv $html_file $html_folder
+# done
 
-# # # Reading the fastqc sumamry files
+# # Reading the fastqc sumamry files
 
-# # for txt in "${unzipped_folder}"/*_fastqc/summary.txt; do
-# # cat $txt >> ${fastqc_out}/collated_summary.txt
-# # done
+# for txt in "${unzipped_folder}"/*_fastqc/summary.txt; do
+# cat $txt >> ${fastqc_out}/collated_summary.txt
+# done
 
 # #skipped trimming
 
@@ -162,21 +162,20 @@ marked_duplicates=~/MTB_SEQ/marked_duplicates
 #         --genotype-filter-name "GQ_filter"
 # done
 
-#Eclu
 
+# for bam_file in "${bam_dir}"/*_R.bam; do 
+#     gvcf_file="${jvc}/$(basename "$bam_file" _R.bam).g.vcf" 
+#     gatk HaplotypeCaller \
+#         -R $REF \
+#         -I $bam_file  \
+#         --emit-ref-confidence GVCF \
+#         -O $gvcf_file;
+# done
 
-for bam_file in "${bam_dir}"/*_R.bam; do 
-    gvcf_file="${jvc}/$(basename "$bam_file" _R.bam).g.vcf" 
-    gatk HaplotypeCaller \
-        -R $REF \
-        -I $bam_file  \
-        --emit-ref-confidence GVCF \
-        -O $gvcf_file;
-done
+# for gvcf in "${jvc}"/*.g.vcf; do
+# gatk GenotypeGVCFs \
+#     -R $REF \
+#     --V $gvcf \
+#     -O "${jvc}"/joint.vcf
+# done
 
-for gvcf in "${jvc}"/*.g.vcf; do
-gatk GenotypeGVCFs \
-    -R $REF \
-    --V $gvcf \
-    -O "${jvc}"/joint.vcf
-done

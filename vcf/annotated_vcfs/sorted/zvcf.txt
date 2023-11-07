@@ -1,0 +1,11 @@
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077936.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077931.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077930.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077935.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077933.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077934.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077939.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077932.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077937.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077938.annotated.sorted.vcf.gz
+/home/odette/MTB_SEQ/vcf/annotated_vcfs/sorted/ERR3077940.annotated.sorted.vcf.gz

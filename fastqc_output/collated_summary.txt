@@ -1,0 +1,242 @@
+PASS	Basic Statistics	ERR3077930_1.fastq
+PASS	Per base sequence quality	ERR3077930_1.fastq
+PASS	Per tile sequence quality	ERR3077930_1.fastq
+PASS	Per sequence quality scores	ERR3077930_1.fastq
+WARN	Per base sequence content	ERR3077930_1.fastq
+WARN	Per sequence GC content	ERR3077930_1.fastq
+PASS	Per base N content	ERR3077930_1.fastq
+WARN	Sequence Length Distribution	ERR3077930_1.fastq
+PASS	Sequence Duplication Levels	ERR3077930_1.fastq
+WARN	Overrepresented sequences	ERR3077930_1.fastq
+PASS	Adapter Content	ERR3077930_1.fastq
+PASS	Basic Statistics	ERR3077930_2.fastq
+FAIL	Per base sequence quality	ERR3077930_2.fastq
+PASS	Per tile sequence quality	ERR3077930_2.fastq
+PASS	Per sequence quality scores	ERR3077930_2.fastq
+WARN	Per base sequence content	ERR3077930_2.fastq
+WARN	Per sequence GC content	ERR3077930_2.fastq
+PASS	Per base N content	ERR3077930_2.fastq
+WARN	Sequence Length Distribution	ERR3077930_2.fastq
+PASS	Sequence Duplication Levels	ERR3077930_2.fastq
+WARN	Overrepresented sequences	ERR3077930_2.fastq
+PASS	Adapter Content	ERR3077930_2.fastq
+PASS	Basic Statistics	ERR3077931_1.fastq
+PASS	Per base sequence quality	ERR3077931_1.fastq
+PASS	Per tile sequence quality	ERR3077931_1.fastq
+PASS	Per sequence quality scores	ERR3077931_1.fastq
+FAIL	Per base sequence content	ERR3077931_1.fastq
+FAIL	Per sequence GC content	ERR3077931_1.fastq
+PASS	Per base N content	ERR3077931_1.fastq
+WARN	Sequence Length Distribution	ERR3077931_1.fastq
+PASS	Sequence Duplication Levels	ERR3077931_1.fastq
+FAIL	Overrepresented sequences	ERR3077931_1.fastq
+PASS	Adapter Content	ERR3077931_1.fastq
+PASS	Basic Statistics	ERR3077931_2.fastq
+PASS	Per base sequence quality	ERR3077931_2.fastq
+PASS	Per tile sequence quality	ERR3077931_2.fastq
+PASS	Per sequence quality scores	ERR3077931_2.fastq
+FAIL	Per base sequence content	ERR3077931_2.fastq
+FAIL	Per sequence GC content	ERR3077931_2.fastq
+PASS	Per base N content	ERR3077931_2.fastq
+WARN	Sequence Length Distribution	ERR3077931_2.fastq
+PASS	Sequence Duplication Levels	ERR3077931_2.fastq
+FAIL	Overrepresented sequences	ERR3077931_2.fastq
+PASS	Adapter Content	ERR3077931_2.fastq
+PASS	Basic Statistics	ERR3077932_1.fastq
+PASS	Per base sequence quality	ERR3077932_1.fastq
+PASS	Per tile sequence quality	ERR3077932_1.fastq
+PASS	Per sequence quality scores	ERR3077932_1.fastq
+WARN	Per base sequence content	ERR3077932_1.fastq
+WARN	Per sequence GC content	ERR3077932_1.fastq
+PASS	Per base N content	ERR3077932_1.fastq
+WARN	Sequence Length Distribution	ERR3077932_1.fastq
+PASS	Sequence Duplication Levels	ERR3077932_1.fastq
+WARN	Overrepresented sequences	ERR3077932_1.fastq
+PASS	Adapter Content	ERR3077932_1.fastq
+PASS	Basic Statistics	ERR3077932_2.fastq
+PASS	Per base sequence quality	ERR3077932_2.fastq
+PASS	Per tile sequence quality	ERR3077932_2.fastq
+PASS	Per sequence quality scores	ERR3077932_2.fastq
+WARN	Per base sequence content	ERR3077932_2.fastq
+WARN	Per sequence GC content	ERR3077932_2.fastq
+PASS	Per base N content	ERR3077932_2.fastq
+WARN	Sequence Length Distribution	ERR3077932_2.fastq
+PASS	Sequence Duplication Levels	ERR3077932_2.fastq
+WARN	Overrepresented sequences	ERR3077932_2.fastq
+PASS	Adapter Content	ERR3077932_2.fastq
+PASS	Basic Statistics	ERR3077933_1.fastq
+PASS	Per base sequence quality	ERR3077933_1.fastq
+PASS	Per tile sequence quality	ERR3077933_1.fastq
+PASS	Per sequence quality scores	ERR3077933_1.fastq
+WARN	Per base sequence content	ERR3077933_1.fastq
+PASS	Per sequence GC content	ERR3077933_1.fastq
+PASS	Per base N content	ERR3077933_1.fastq
+WARN	Sequence Length Distribution	ERR3077933_1.fastq
+PASS	Sequence Duplication Levels	ERR3077933_1.fastq
+PASS	Overrepresented sequences	ERR3077933_1.fastq
+PASS	Adapter Content	ERR3077933_1.fastq
+PASS	Basic Statistics	ERR3077933_2.fastq
+PASS	Per base sequence quality	ERR3077933_2.fastq
+PASS	Per tile sequence quality	ERR3077933_2.fastq
+PASS	Per sequence quality scores	ERR3077933_2.fastq
+WARN	Per base sequence content	ERR3077933_2.fastq
+WARN	Per sequence GC content	ERR3077933_2.fastq
+PASS	Per base N content	ERR3077933_2.fastq
+WARN	Sequence Length Distribution	ERR3077933_2.fastq
+PASS	Sequence Duplication Levels	ERR3077933_2.fastq
+PASS	Overrepresented sequences	ERR3077933_2.fastq
+PASS	Adapter Content	ERR3077933_2.fastq
+PASS	Basic Statistics	ERR3077934_1.fastq
+PASS	Per base sequence quality	ERR3077934_1.fastq
+PASS	Per tile sequence quality	ERR3077934_1.fastq
+PASS	Per sequence quality scores	ERR3077934_1.fastq
+WARN	Per base sequence content	ERR3077934_1.fastq
+WARN	Per sequence GC content	ERR3077934_1.fastq
+PASS	Per base N content	ERR3077934_1.fastq
+WARN	Sequence Length Distribution	ERR3077934_1.fastq
+PASS	Sequence Duplication Levels	ERR3077934_1.fastq
+WARN	Overrepresented sequences	ERR3077934_1.fastq
+PASS	Adapter Content	ERR3077934_1.fastq
+PASS	Basic Statistics	ERR3077934_2.fastq
+PASS	Per base sequence quality	ERR3077934_2.fastq
+PASS	Per tile sequence quality	ERR3077934_2.fastq
+PASS	Per sequence quality scores	ERR3077934_2.fastq
+WARN	Per base sequence content	ERR3077934_2.fastq
+WARN	Per sequence GC content	ERR3077934_2.fastq
+PASS	Per base N content	ERR3077934_2.fastq
+WARN	Sequence Length Distribution	ERR3077934_2.fastq
+PASS	Sequence Duplication Levels	ERR3077934_2.fastq
+WARN	Overrepresented sequences	ERR3077934_2.fastq
+PASS	Adapter Content	ERR3077934_2.fastq
+PASS	Basic Statistics	ERR3077935_1.fastq
+PASS	Per base sequence quality	ERR3077935_1.fastq
+PASS	Per tile sequence quality	ERR3077935_1.fastq
+PASS	Per sequence quality scores	ERR3077935_1.fastq
+WARN	Per base sequence content	ERR3077935_1.fastq
+WARN	Per sequence GC content	ERR3077935_1.fastq
+PASS	Per base N content	ERR3077935_1.fastq
+WARN	Sequence Length Distribution	ERR3077935_1.fastq
+PASS	Sequence Duplication Levels	ERR3077935_1.fastq
+WARN	Overrepresented sequences	ERR3077935_1.fastq
+PASS	Adapter Content	ERR3077935_1.fastq
+PASS	Basic Statistics	ERR3077935_2.fastq
+FAIL	Per base sequence quality	ERR3077935_2.fastq
+PASS	Per tile sequence quality	ERR3077935_2.fastq
+PASS	Per sequence quality scores	ERR3077935_2.fastq
+WARN	Per base sequence content	ERR3077935_2.fastq
+WARN	Per sequence GC content	ERR3077935_2.fastq
+PASS	Per base N content	ERR3077935_2.fastq
+WARN	Sequence Length Distribution	ERR3077935_2.fastq
+PASS	Sequence Duplication Levels	ERR3077935_2.fastq
+WARN	Overrepresented sequences	ERR3077935_2.fastq
+PASS	Adapter Content	ERR3077935_2.fastq
+PASS	Basic Statistics	ERR3077936_1.fastq
+PASS	Per base sequence quality	ERR3077936_1.fastq
+PASS	Per tile sequence quality	ERR3077936_1.fastq
+PASS	Per sequence quality scores	ERR3077936_1.fastq
+WARN	Per base sequence content	ERR3077936_1.fastq
+WARN	Per sequence GC content	ERR3077936_1.fastq
+PASS	Per base N content	ERR3077936_1.fastq
+WARN	Sequence Length Distribution	ERR3077936_1.fastq
+PASS	Sequence Duplication Levels	ERR3077936_1.fastq
+WARN	Overrepresented sequences	ERR3077936_1.fastq
+PASS	Adapter Content	ERR3077936_1.fastq
+PASS	Basic Statistics	ERR3077936_2.fastq
+PASS	Per base sequence quality	ERR3077936_2.fastq
+PASS	Per tile sequence quality	ERR3077936_2.fastq
+PASS	Per sequence quality scores	ERR3077936_2.fastq
+WARN	Per base sequence content	ERR3077936_2.fastq
+WARN	Per sequence GC content	ERR3077936_2.fastq
+PASS	Per base N content	ERR3077936_2.fastq
+WARN	Sequence Length Distribution	ERR3077936_2.fastq
+PASS	Sequence Duplication Levels	ERR3077936_2.fastq
+WARN	Overrepresented sequences	ERR3077936_2.fastq
+PASS	Adapter Content	ERR3077936_2.fastq
+PASS	Basic Statistics	ERR3077937_1.fastq
+PASS	Per base sequence quality	ERR3077937_1.fastq
+PASS	Per tile sequence quality	ERR3077937_1.fastq
+PASS	Per sequence quality scores	ERR3077937_1.fastq
+WARN	Per base sequence content	ERR3077937_1.fastq
+WARN	Per sequence GC content	ERR3077937_1.fastq
+PASS	Per base N content	ERR3077937_1.fastq
+WARN	Sequence Length Distribution	ERR3077937_1.fastq
+PASS	Sequence Duplication Levels	ERR3077937_1.fastq
+FAIL	Overrepresented sequences	ERR3077937_1.fastq
+PASS	Adapter Content	ERR3077937_1.fastq
+PASS	Basic Statistics	ERR3077937_2.fastq
+PASS	Per base sequence quality	ERR3077937_2.fastq
+PASS	Per tile sequence quality	ERR3077937_2.fastq
+PASS	Per sequence quality scores	ERR3077937_2.fastq
+WARN	Per base sequence content	ERR3077937_2.fastq
+WARN	Per sequence GC content	ERR3077937_2.fastq
+PASS	Per base N content	ERR3077937_2.fastq
+WARN	Sequence Length Distribution	ERR3077937_2.fastq
+PASS	Sequence Duplication Levels	ERR3077937_2.fastq
+WARN	Overrepresented sequences	ERR3077937_2.fastq
+PASS	Adapter Content	ERR3077937_2.fastq
+PASS	Basic Statistics	ERR3077938_1.fastq
+PASS	Per base sequence quality	ERR3077938_1.fastq
+PASS	Per tile sequence quality	ERR3077938_1.fastq
+PASS	Per sequence quality scores	ERR3077938_1.fastq
+WARN	Per base sequence content	ERR3077938_1.fastq
+WARN	Per sequence GC content	ERR3077938_1.fastq
+PASS	Per base N content	ERR3077938_1.fastq
+WARN	Sequence Length Distribution	ERR3077938_1.fastq
+PASS	Sequence Duplication Levels	ERR3077938_1.fastq
+WARN	Overrepresented sequences	ERR3077938_1.fastq
+PASS	Adapter Content	ERR3077938_1.fastq
+PASS	Basic Statistics	ERR3077938_2.fastq
+PASS	Per base sequence quality	ERR3077938_2.fastq
+PASS	Per tile sequence quality	ERR3077938_2.fastq
+PASS	Per sequence quality scores	ERR3077938_2.fastq
+WARN	Per base sequence content	ERR3077938_2.fastq
+WARN	Per sequence GC content	ERR3077938_2.fastq
+PASS	Per base N content	ERR3077938_2.fastq
+WARN	Sequence Length Distribution	ERR3077938_2.fastq
+PASS	Sequence Duplication Levels	ERR3077938_2.fastq
+WARN	Overrepresented sequences	ERR3077938_2.fastq
+PASS	Adapter Content	ERR3077938_2.fastq
+PASS	Basic Statistics	ERR3077939_1.fastq
+PASS	Per base sequence quality	ERR3077939_1.fastq
+PASS	Per tile sequence quality	ERR3077939_1.fastq
+PASS	Per sequence quality scores	ERR3077939_1.fastq
+FAIL	Per base sequence content	ERR3077939_1.fastq
+PASS	Per sequence GC content	ERR3077939_1.fastq
+PASS	Per base N content	ERR3077939_1.fastq
+WARN	Sequence Length Distribution	ERR3077939_1.fastq
+PASS	Sequence Duplication Levels	ERR3077939_1.fastq
+PASS	Overrepresented sequences	ERR3077939_1.fastq
+PASS	Adapter Content	ERR3077939_1.fastq
+PASS	Basic Statistics	ERR3077939_2.fastq
+PASS	Per base sequence quality	ERR3077939_2.fastq
+PASS	Per tile sequence quality	ERR3077939_2.fastq
+PASS	Per sequence quality scores	ERR3077939_2.fastq
+FAIL	Per base sequence content	ERR3077939_2.fastq
+PASS	Per sequence GC content	ERR3077939_2.fastq
+PASS	Per base N content	ERR3077939_2.fastq
+WARN	Sequence Length Distribution	ERR3077939_2.fastq
+PASS	Sequence Duplication Levels	ERR3077939_2.fastq
+PASS	Overrepresented sequences	ERR3077939_2.fastq
+PASS	Adapter Content	ERR3077939_2.fastq
+PASS	Basic Statistics	ERR3077940_1.fastq
+PASS	Per base sequence quality	ERR3077940_1.fastq
+PASS	Per tile sequence quality	ERR3077940_1.fastq
+PASS	Per sequence quality scores	ERR3077940_1.fastq
+WARN	Per base sequence content	ERR3077940_1.fastq
+WARN	Per sequence GC content	ERR3077940_1.fastq
+PASS	Per base N content	ERR3077940_1.fastq
+WARN	Sequence Length Distribution	ERR3077940_1.fastq
+PASS	Sequence Duplication Levels	ERR3077940_1.fastq
+WARN	Overrepresented sequences	ERR3077940_1.fastq
+PASS	Adapter Content	ERR3077940_1.fastq
+PASS	Basic Statistics	ERR3077940_2.fastq
+PASS	Per base sequence quality	ERR3077940_2.fastq
+PASS	Per tile sequence quality	ERR3077940_2.fastq
+PASS	Per sequence quality scores	ERR3077940_2.fastq
+WARN	Per base sequence content	ERR3077940_2.fastq
+WARN	Per sequence GC content	ERR3077940_2.fastq
+PASS	Per base N content	ERR3077940_2.fastq
+WARN	Sequence Length Distribution	ERR3077940_2.fastq
+PASS	Sequence Duplication Levels	ERR3077940_2.fastq
+WARN	Overrepresented sequences	ERR3077940_2.fastq
+PASS	Adapter Content	ERR3077940_2.fastq
